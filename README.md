@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Samir Guimarães 👋
 
-<!--
-**Samir-Guimaraes/Samir-Guimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **UERJ**, passionate about the **C language** and **mathematics**. I've been working for over a year at a **cybersecurity** company.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **Computer Science** — UERJ (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- **Cybersecurity** — over 1 year in the field
+- **Junior Enterprise** — worked in innovation and technology
+
+## ❤️ Interests
+- **C** language
+- **Mathematics**
+- Technological Innovation
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/samir-guimarães-a5140b219)
